@@ -1,0 +1,33 @@
+h1 {
+  font-size: 90px;
+  color: yellow;
+  background-image: url(https://lh3.googleusercontent.com/novk3hV6gFaJXBp7mEBz1B5WJnBs99pRY2JME78pg2q2KRclphiMmBQ439RVHUcHhjlQUvs=s85);
+  align-items: center;
+  height: 200px;
+  text-align: center;
+  padding: 30px;
+  border: solid;
+  border-style: double;
+  border-color: yellow;
+
+}
+
+body {
+  align-content: center;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h2 {
+font-size: 30px;
+font-weight: bold;
+}
+
+img {
+  align-items: center;
+  align-content: center;
+  border: solid;
+  border-width: thick;
+  border-color: yellow;
+}
